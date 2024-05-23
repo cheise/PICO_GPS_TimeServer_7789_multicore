@@ -1,5 +1,5 @@
 
-# PICO_GPS_TimeServer_ST7789_multicore!
+# PICO_GPS_TimeServer_ST7789_multicore
 
 ![1000000302](https://github.com/cheise/PICO_GPS_TimeServer_7789_multicore/assets/59045759/b56eaa8d-38cf-4d4f-9604-f268cee74e65)
 
