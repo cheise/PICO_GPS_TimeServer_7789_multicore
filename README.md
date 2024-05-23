@@ -1,5 +1,9 @@
 
-# PICO_GPS_TimeServer_ST7789_multicore
+# PICO_GPS_TimeServer_ST7789_multicore!
+
+![1000000302](https://github.com/cheise/PICO_GPS_TimeServer_7789_multicore/assets/59045759/b56eaa8d-38cf-4d4f-9604-f268cee74e65)
+
+
  
 Network based GPS NTP server - cheise - 02/06/2023 ported to Raspberry PICO (without WiFi Support ! Network based version !)
 --- RP2040 - Raspberry Pico Version with W5500 Network Card, DS3231 RTC, 2 Zoll ST7789 SPI Display and NEO6M GPS Board ---
